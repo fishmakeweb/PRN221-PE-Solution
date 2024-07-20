@@ -105,9 +105,8 @@ namespace AirConditionerShop_DuongVietHoang
 
         //}
 
-        private void SaveBtn_Click(object sender, RoutedEventArgs e)
+        private bool AreInputsValid()
         {
-            // Check for empty fields
             if (string.IsNullOrWhiteSpace(txtAirConditionerId.Text) ||
                 string.IsNullOrWhiteSpace(txtAirConditionerName.Text) ||
                 string.IsNullOrWhiteSpace(txtWarranty.Text) ||
@@ -118,29 +117,60 @@ namespace AirConditionerShop_DuongVietHoang
                 selectSupplierCompany.SelectedValue == null)
             {
                 MessageBox.Show("Please fill in all fields.", "Missing Information", MessageBoxButton.OK, MessageBoxImage.Error);
-                return;
+                return false;
             }
+            return true;
+        }
 
-            // Validate AirConditionerName for length and character constraints
+        private bool IsNameValid()
+        {
             Regex nameRegex = new Regex(@"^\s*([A-Z0-9][\w\W]{4,89})$");
             if (!nameRegex.IsMatch(txtAirConditionerName.Text))
             {
                 MessageBox.Show("AirConditioner Name must be 5-90 characters long and start each word with a capital letter or digit.", "Validation Error", MessageBoxButton.OK, MessageBoxImage.Error);
-                return;
+                return false;
             }
+            return true;
+        }
 
-            // Validate DollarPrice and Quantity
-            if (!double.TryParse(txtDollarPrice.Text, out double dollarPrice) || dollarPrice < 0 || dollarPrice >= 4000000 ||
-                !int.TryParse(txtQuantity.Text, out int quantity) || quantity < 0 || quantity >= 4000000)
+        private bool IsPriceAndQuantityValid(out double dollarPrice, out int quantity)
+        {
+            dollarPrice = 0;
+            quantity = 0;
+            if (!double.TryParse(txtDollarPrice.Text, out dollarPrice) || dollarPrice < 0 || dollarPrice >= 4000000 ||
+                !int.TryParse(txtQuantity.Text, out quantity) || quantity < 0 || quantity >= 4000000)
             {
                 MessageBox.Show("Dollar Price and Quantity must be a number between 0 and 3,999,999.", "Validation Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                return false;
+            }
+            return true;
+        }
+
+        private bool IsDuplicateId(int id)
+        {
+            AirConditionerService service = new AirConditionerService();
+            return service.ExistsWithId(id);
+        }
+
+        private void SaveBtn_Click(object sender, RoutedEventArgs e)
+        {
+            if (!AreInputsValid()) return;
+
+            if (!IsNameValid()) return;
+
+            if (!IsPriceAndQuantityValid(out double dollarPrice, out int quantity)) return;
+
+            int airConditionerId = int.Parse(txtAirConditionerId.Text);
+
+            if (selectedAirConditioner == null && IsDuplicateId(airConditionerId))
+            {
+                MessageBox.Show("An Air Conditioner with this ID already exists.", "Duplicate ID", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
 
-            // If validations pass, proceed with creating or updating the AirConditioner object
-            AirConditioner airConditioner = new()
+            AirConditioner airConditioner = new AirConditioner
             {
-                AirConditionerId = int.Parse(txtAirConditionerId.Text),
+                AirConditionerId = airConditionerId,
                 AirConditionerName = txtAirConditionerName.Text,
                 Warranty = txtWarranty.Text,
                 SoundPressureLevel = txtSoundPressureLevel.Text,
@@ -150,7 +180,7 @@ namespace AirConditionerShop_DuongVietHoang
                 SupplierId = selectSupplierCompany.SelectedValue.ToString()
             };
 
-            AirConditionerService service = new();
+            AirConditionerService service = new AirConditionerService();
             if (selectedAirConditioner != null)
             {
                 service.UpdateAirConditionerFromUI(airConditioner);
@@ -160,12 +190,12 @@ namespace AirConditionerShop_DuongVietHoang
                 service.AddAirConditionerFromUI(airConditioner);
             }
 
-            // Optionally, refresh or close the current window and open the main window
-            MainWindow mainWindow = new();
+            MainWindow mainWindow = new MainWindow();
             mainWindow.crudPermission = true;
             mainWindow.Show();
-            Close();
+            this.Close();
         }
+
 
 
         private void CloseBtn_Click(object sender, RoutedEventArgs e)

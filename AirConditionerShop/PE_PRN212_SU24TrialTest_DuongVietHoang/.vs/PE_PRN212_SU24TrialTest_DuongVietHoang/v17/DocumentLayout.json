@@ -3,66 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakid\\AppData\\Local\\Temp\\cpk3rts3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop_duongviethoang\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|solutionrelative:airconditionershop_duongviethoang\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop_duongviethoang\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|solutionrelative:airconditionershop_duongviethoang\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop_duongviethoang\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|solutionrelative:airconditionershop_duongviethoang\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop_duongviethoang\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|solutionrelative:airconditionershop_duongviethoang\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\AirConditionerShop2024DB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop.dal\\suppliercompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditionershop.dal\\suppliercompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop.dal\\staffmemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditionershop.dal\\staffmemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop.dal\\airconditionerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditionershop.dal\\airconditionerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop_duongviethoang\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|solutionrelative:airconditionershop_duongviethoang\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop.dal\\models\\suppliercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditionershop.dal\\models\\suppliercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop.dal\\models\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditionershop.dal\\models\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop.dal\\airconditionershop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5E3A3799-36EF-4B7E-9BE2-68BCC5F0BB9B}|AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditionershop.dal\\airconditionershop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\AirConditionerShop2024DB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\AirConditionerShop2024DB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakid\\AppData\\Local\\Temp\\cpk3rts3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakid\\AppData\\Local\\Temp\\cpk3rts3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|c:\\users\\jakid\\desktop\\prn221-pe-solution\\airconditionershop\\pe_prn212_su24trialtest_duongviethoang\\airconditionershop_duongviethoang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B7D158A-981E-4309-AB65-24FE4D498FA6}|AirConditionerShop_DuongVietHoang\\AirConditionerShop_DuongVietHoang.csproj|solutionrelative:airconditionershop_duongviethoang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,32 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLQuery3.sql ",
-              "DocumentMoniker": "C:\\Users\\jakid\\AppData\\Local\\Temp\\cpk3rts3..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\cpk3rts3..sql",
-              "ToolTip": "SQLQuery3.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-20T13:14:02.753Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AirConditionerShop2024DB.sql ",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\AirConditionerShop2024DB.sql",
-              "RelativeDocumentMoniker": "..\\AirConditionerShop2024DB.sql",
-              "ToolTip": "AirConditionerShop2024DB.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-20T12:35:26.304Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -108,143 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DetailWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\DetailWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop_DuongVietHoang\\DetailWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\DetailWindow.xaml.cs",
-              "RelativeToolTip": "AirConditionerShop_DuongVietHoang\\DetailWindow.xaml.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAmwHUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T13:25:03.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop_DuongVietHoang\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\MainWindow.xaml.cs",
-              "RelativeToolTip": "AirConditionerShop_DuongVietHoang\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAmwJcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T13:45:33.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop_DuongVietHoang\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "AirConditionerShop_DuongVietHoang\\LoginWindow.xaml.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAgwEcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T14:12:26.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "AirConditionerShop_DuongVietHoang\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\MainWindow.xaml",
-              "RelativeToolTip": "AirConditionerShop_DuongVietHoang\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-20T13:46:52.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SupplierCompanyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\SupplierCompanyRepository.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop.DAL\\SupplierCompanyRepository.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\SupplierCompanyRepository.cs",
-              "RelativeToolTip": "AirConditionerShop.DAL\\SupplierCompanyRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T12:57:25.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StaffMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\StaffMemberRepository.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop.DAL\\StaffMemberRepository.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\StaffMemberRepository.cs",
-              "RelativeToolTip": "AirConditionerShop.DAL\\StaffMemberRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T14:05:29.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AirConditionerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\AirConditionerRepository.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop.DAL\\AirConditionerRepository.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\AirConditionerRepository.cs",
-              "RelativeToolTip": "AirConditionerShop.DAL\\AirConditionerRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T13:47:18.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AirConditioner.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\Models\\AirConditioner.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop.DAL\\Models\\AirConditioner.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\Models\\AirConditioner.cs",
-              "RelativeToolTip": "AirConditionerShop.DAL\\Models\\AirConditioner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T14:05:16.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetailWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\DetailWindow.xaml",
-              "RelativeDocumentMoniker": "AirConditionerShop_DuongVietHoang\\DetailWindow.xaml",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\DetailWindow.xaml",
-              "RelativeToolTip": "AirConditionerShop_DuongVietHoang\\DetailWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-20T12:19:26.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SupplierCompany.cs",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\Models\\SupplierCompany.cs",
-              "RelativeDocumentMoniker": "AirConditionerShop.DAL\\Models\\SupplierCompany.cs",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\Models\\SupplierCompany.cs",
-              "RelativeToolTip": "AirConditionerShop.DAL\\Models\\SupplierCompany.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T12:58:07.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AirConditionerShop.DAL",
-              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj",
-              "RelativeDocumentMoniker": "AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj",
-              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj",
-              "RelativeToolTip": "AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-20T12:51:01.902Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\appsettings.json",
+              "RelativeDocumentMoniker": "AirConditionerShop_DuongVietHoang\\appsettings.json",
+              "ToolTip": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\AirConditionerShop\\PE_PRN212_SU24TrialTest_DuongVietHoang\\AirConditionerShop_DuongVietHoang\\appsettings.json",
+              "RelativeToolTip": "AirConditionerShop_DuongVietHoang\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T15:12:29.551Z",
               "EditorCaption": ""
             }
           ]

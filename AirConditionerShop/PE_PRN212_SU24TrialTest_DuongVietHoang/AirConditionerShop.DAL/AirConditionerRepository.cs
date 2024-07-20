@@ -20,18 +20,27 @@ namespace AirConditionerShop.DAL
                  .ToList();
         }
 
-        public void UpdateAirConditioner(AirConditioner airConditioner)
+        public AirConditioner? GetAirConditionerById(int id)
         {
-            _context = new();
-            _context.AirConditioners.Update(airConditioner);
-            _context.SaveChanges();
+            _context = new AirConditionerShop2024DbContext();
+            return _context.AirConditioners
+                           .Include(ac => ac.Supplier) 
+                           .FirstOrDefault(ac => ac.AirConditionerId == id);
         }
+
         public void AddAirConditioner(AirConditioner airConditioner)
         {
             _context = new();
             _context.AirConditioners.Add(airConditioner);
             _context.SaveChanges();
         }
+        public void UpdateAirConditioner(AirConditioner airConditioner)
+        {
+            _context = new();
+            _context.AirConditioners.Update(airConditioner);
+            _context.SaveChanges();
+        }
+
 
         public void DeleteAirConditioner(AirConditioner airConditioner)
         {

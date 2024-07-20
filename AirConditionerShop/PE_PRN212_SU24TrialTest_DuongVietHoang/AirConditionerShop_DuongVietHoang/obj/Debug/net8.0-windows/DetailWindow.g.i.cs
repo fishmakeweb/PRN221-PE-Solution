@@ -141,7 +141,7 @@ namespace AirConditionerShop_DuongVietHoang {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AirConditionerShop_DuongVietHoang;component/detailwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AirConditionerShop_DuongVietHoang;V1.0.0.0;component/detailwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DetailWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

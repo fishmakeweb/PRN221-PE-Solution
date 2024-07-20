@@ -17,6 +17,11 @@ namespace AirConditionerShop.BLL
             return _repo.GetAirConditioners();
         }
 
+        public bool ExistsWithId(int id)
+        {
+            return _repo.GetAirConditionerById(id) != null;
+        }
+
         public void AddAirConditionerFromUI(AirConditioner airConditioner)
         {
             _repo.AddAirConditioner(airConditioner);
