@@ -1,0 +1,69 @@
+﻿<Window x:Class="BookManagement_DuongVietHoang.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManagement_DuongVietHoang"
+        mc:Ignorable="d"
+        Title="Main Book Management Window" Height="500" Width="800" FontFamily="Arial" FontSize="14" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Main Title -->
+        <Label Content="Book Management" FontSize="24" FontWeight="Bold" Foreground="Green" 
+                   HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" Grid.Row="0"/>
+
+        <!-- Search Section -->
+        <Border Grid.Row="1" Background="White" CornerRadius="5" Margin="10" Padding="10">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Book Name" Padding="5" Margin="0,0,10,0"/>
+                <TextBox x:Name="txtSearchBookName" Width="200" Margin="0,0,10,0" ToolTip="Enter Book Name"/>
+                <Label Content="Book Desc" Padding="5" Margin="0,0,10,0"/>
+                <TextBox x:Name="txtSearchBookDesc" Width="200" Margin="0,0,10,0" ToolTip="Enter Book Description"/>
+                <Button Content="Search" Width="100" Margin="30,0,0,0" Click="SearchBtn_Click"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Subtitle for DataGrid -->
+        <TextBlock Text="Book List" FontSize="18" FontWeight="Bold" Foreground="Green" 
+                   HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Grid.Row="2"/>
+
+        <!-- DataGrid and Buttons Section -->
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid x:Name="BookListDataGrid" Grid.Column="0" AutoGenerateColumns="False" TabIndex="3" FontSize="18"
+                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10"
+                      HorizontalScrollBarVisibility="Auto">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding BookId}" Width="35"/>
+                    <DataGridTextColumn Header="Book Name" Binding="{Binding BookName}" Width="120"/>
+                    <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="150"/>
+                    <DataGridTextColumn Header="Pub. Date" Binding="{Binding PublicationDate}" Width="150"/>
+                    <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="90"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="60"/>
+                    <DataGridTextColumn Header="Author" Binding="{Binding Author}" Width="80"/>
+                    <DataGridTextColumn Header="Category ID" Binding="{Binding BookCategoryId}" Width="70"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Buttons aligned to the right of the DataGrid -->
+            <StackPanel Grid.Column="1" Orientation="Vertical" VerticalAlignment="Top" Margin="10">
+                <Button x:Name="CreateBtn" Content="Create Book" Width="120" Margin="0,0,0,10" Padding="10,5" Click="CreateBtn_Click"/>
+                <Button x:Name="UpdateBtn" Content="Update Book" Width="120" Margin="0,0,0,10" Padding="10,5" Click="UpdateBtn_Click"/>
+                <Button x:Name="DeleteBtn" Content="Delete Book" Width="120" Margin="0,0,0,10" Padding="10,5" Click="DeleteBtn_Click"/>
+                <Button x:Name="QuitBtn" Content="Quit" Width="120" Padding="10,5" Click="QuitBtn_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

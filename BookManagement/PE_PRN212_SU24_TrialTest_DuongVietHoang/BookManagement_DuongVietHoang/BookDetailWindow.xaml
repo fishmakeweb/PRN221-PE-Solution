@@ -1,0 +1,62 @@
+﻿<Window x:Class="BookManagement_DuongVietHoang.BookDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManagement_DuongVietHoang"
+        mc:Ignorable="d"
+        Title="BookDetailWindow" Height="500" Width="800" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="140"/>
+        </Grid.ColumnDefinitions>
+        <Border Background="White" CornerRadius="10" Padding="10" Width="500" Height="Auto">
+            <StackPanel>
+                <Label x:Name="BookDetailTittle" Content="Create | Update Book" FontSize="24" FontWeight="Bold" Foreground="Blue" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Book ID" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <TextBox x:Name="bookIdText" Height="25" Margin="0,5" VerticalAlignment="Center" Width="350"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Book Name" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <TextBox x:Name="bookNameText" Height="25" Margin="0,5" VerticalAlignment="Center" Width="350"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Book Desc" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <TextBox x:Name="bookDescText" Height="60" Margin="0,5" VerticalAlignment="Center" Width="350"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Pub. Date" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <DatePicker x:Name="bookDateSelect" Height="25" Margin="0,5" VerticalAlignment="Center" Width="350"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Book Quantity" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <TextBox x:Name="bookQuantityText" Height="25" Margin="0,5" VerticalAlignment="Center" Width="160"/>
+
+                    <Label Content="Book Price" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="80" Margin="20,0,0,0"/>
+                    <TextBox x:Name="bookPriceText" Height="25" Margin="0,5" VerticalAlignment="Center" Width="90"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Author" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <TextBox x:Name="bookAuthorText" Height="25" Margin="0,5" VerticalAlignment="Center" Width="350"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Book Category" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Width="120"/>
+                    <ComboBox x:Name="bookCategorySelect" Height="25" Margin="0,5" VerticalAlignment="Center" Width="350"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+        <StackPanel Grid.Column="1" VerticalAlignment="Top" Margin="0,20">
+            <Button x:Name="SaveBtn" Content="Save Book" Width="120" Margin="0,0,0,10" Padding="0,5" Click="SaveBtn_Click"/>
+            <Button x:Name="CloseBtn" Content="Close" Width="120" Padding="0,5" Click="CloseBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

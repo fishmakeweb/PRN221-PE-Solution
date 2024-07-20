@@ -1,0 +1,14 @@
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\bin\Debug\net8.0\BookManagement.DAL.deps.json
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\bin\Debug\net8.0\BookManagement.DAL.runtimeconfig.json
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\bin\Debug\net8.0\BookManagement.DAL.dll
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\bin\Debug\net8.0\BookManagement.DAL.pdb
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.AssemblyInfo.cs
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.dll
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\refint\BookManagement.DAL.dll
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.pdb
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.genruntimeconfig.cache
+C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\obj\Debug\net8.0\ref\BookManagement.DAL.dll
