@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj": {}
+    "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj": {
+    "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj",
         "projectName": "BookManagement.BLL",
-        "projectPath": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj",
-        "packagesPath": "C:\\Users\\VH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\obj\\",
+        "projectPath": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\BookManagement.BLL.csproj",
+        "packagesPath": "C:\\Users\\jakid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jakid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj": {
-                "projectPath": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj"
+              "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj": {
+                "projectPath": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj"
               }
             }
           }
@@ -68,17 +69,17 @@
         }
       }
     },
-    "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj": {
+    "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj",
         "projectName": "BookManagement.DAL",
-        "projectPath": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj",
-        "packagesPath": "C:\\Users\\VH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VH\\source\\repos\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\obj\\",
+        "projectPath": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\BookManagement.DAL.csproj",
+        "packagesPath": "C:\\Users\\jakid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakid\\Desktop\\PRN221-PE-Solution\\BookManagement\\PE_PRN212_SU24_TrialTest_DuongVietHoang\\BookManagement.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jakid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,6 +87,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BookManagement.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookManagement.DAL
 {
@@ -15,7 +16,9 @@ namespace BookManagement.DAL
         {
             _context = new BookManagementDbContext();
            _context = new();
-            return _context.Books.ToList();
+            return _context.Books
+                 .Include(b => b.BookCategory) // Eager loading of BookCategory
+                 .ToList();
         }
 
         public void UpdateBook(Book book)

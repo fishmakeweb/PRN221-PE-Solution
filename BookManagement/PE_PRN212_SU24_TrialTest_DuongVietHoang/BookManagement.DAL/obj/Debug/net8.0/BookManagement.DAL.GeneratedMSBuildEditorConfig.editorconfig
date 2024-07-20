@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookManagement.DAL
-build_property.ProjectDir = C:\Users\VH\source\repos\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\
+build_property.ProjectDir = C:\Users\jakid\Desktop\PRN221-PE-Solution\BookManagement\PE_PRN212_SU24_TrialTest_DuongVietHoang\BookManagement.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

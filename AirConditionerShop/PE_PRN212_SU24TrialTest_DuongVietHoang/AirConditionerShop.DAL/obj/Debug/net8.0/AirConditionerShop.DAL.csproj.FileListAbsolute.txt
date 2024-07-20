@@ -1,0 +1,15 @@
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.deps.json
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.runtimeconfig.json
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.pdb
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.csproj.AssemblyReference.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.AssemblyInfoInputs.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.AssemblyInfo.cs
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.sourcelink.json
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\refint\AirConditionerShop.DAL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.pdb
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.genruntimeconfig.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.DAL\obj\Debug\net8.0\ref\AirConditionerShop.DAL.dll

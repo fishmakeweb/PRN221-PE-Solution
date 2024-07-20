@@ -53,7 +53,7 @@
                     <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="90"/>
                     <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="60"/>
                     <DataGridTextColumn Header="Author" Binding="{Binding Author}" Width="80"/>
-                    <DataGridTextColumn Header="Category ID" Binding="{Binding BookCategoryId}" Width="70"/>
+                    <DataGridTextColumn Header="Category" Binding="{Binding BookCategory.BookGenreType}" Width="100"/>
                 </DataGrid.Columns>
             </DataGrid>
 

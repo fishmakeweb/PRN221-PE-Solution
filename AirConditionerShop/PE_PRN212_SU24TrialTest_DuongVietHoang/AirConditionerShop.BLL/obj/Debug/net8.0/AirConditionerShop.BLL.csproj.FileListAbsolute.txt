@@ -1,0 +1,16 @@
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.deps.json
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.pdb
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.AssemblyInfoInputs.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.AssemblyInfo.cs
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.sourcelink.json
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\refint\AirConditionerShop.BLL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.pdb
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\ref\AirConditionerShop.BLL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.DAL.dll
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.DAL.pdb
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.csproj.AssemblyReference.cache
+C:\Users\jakid\Desktop\PRN221-PE-Solution\AirConditionerShop\PE_PRN212_SU24TrialTest_DuongVietHoang\AirConditionerShop.BLL\obj\Debug\net8.0\AirCondi.927B0A0D.Up2Date

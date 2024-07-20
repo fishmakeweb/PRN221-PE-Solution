@@ -11,7 +11,7 @@ public partial class Book
 
     public string Description { get; set; } = null!;
 
-    public DateTime PublicationDate { get; set; }
+    public DateTime? PublicationDate { get; set; }
 
     public int Quantity { get; set; }
 
